@@ -1,0 +1,18 @@
+# Annotations in EC100 are used in this file
+noun_id:
+  - 53 # egg
+  - 16 # onion
+
+verb_id:
+  - 0  # take
+  - 7  # cut
+  - 19 # peel
+  - 30 # break
+  - 45 # cook, fry, boil
+
+state_id:
+  - 0  # whole
+  - 7  # cut
+  - 19 # peeled
+  - 30 # cracked
+  - 45 # cooked
